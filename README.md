@@ -1,7 +1,11 @@
 # [L4D2] Improved Survivor Bots
-This is a SourceMod Extension that fixes lots of bugs and improves the existing behaviors of the survivor bots. This project was made around April 2020 and had been in development for about a year but has been abandoned meanwhile since I don't have the time to maintain it.
+This is a SourceMod Extension that fixes lots of bugs and improves the existing behaviors of the survivor bots. This project was made around April 2020 and had been in development for about a year but has been **abandoned** meanwhile since I don't have the time to maintain it. You might have to modify the source code in order to compile it.
 
-It was originally made for the Linux version of the game but later received Windows support as well. However, there's an issue with custom behaviors on Windows which causes a server crash so I suggest not to use this extension directly but instead use the code and create your own version with it.
+It was originally made for the Linux version of the game but later received Windows support as well; however, there's an issue with custom behaviors on Windows which causes a server crash. 
+
+I suggest not using this extension on your server but instead, creating a fork and editing it or using the code and creating your own version with it. You can also use [this plugin](https://forums.alliedmods.net/showthread.php?p=2771953) as an alternative if you want to modify behaviors using plugins.
+
+If you decide to use it anyway, make sure not to use my other [survivor bot fixes](https://github.com/justin-chellah?tab=repositories) since these fixes are already included in this extension and might cause issues.
 
 # Fixed Issues
 ```
