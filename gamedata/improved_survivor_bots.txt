@@ -9,7 +9,6 @@
 				"linux"
 				{
 					"signature"	"TheDirector"
-					"read" 	"0"
 				}
 
 				"windows"
@@ -17,6 +16,8 @@
 					"signature"	"TheDirector"
 					"read"	"12"
 				}
+				
+				"read" 	"0"
 			}
 		}
 
